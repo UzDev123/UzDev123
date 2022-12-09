@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harry578
+- 👋 Hi, I’m @UzDev123
 - 👀 I’m interested in programming Android Development
 - 🌱 I’m currently learning python data analysis
 - 💞️ I’m looking to collaborate on bioinformatics AI 
