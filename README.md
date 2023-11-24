@@ -1,6 +1,8 @@
 
 ![UzDev123's GitHub stats](https://github-readme-stats.vercel.app/api?username=UzDev123&show_icons=true&theme=shadow_green)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UzDev123)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UzDev123&layout=compact)
+
 
 - 👋 Hi, I’m @UzDev123
 - 👀 I’m interested in programming Android Development
